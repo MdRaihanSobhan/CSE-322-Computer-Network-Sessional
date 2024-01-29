@@ -1,0 +1,5 @@
+./ns3 run "scratch/1905095_st/1905095_static --nNodes=50 --nFlows=100 --nPackets=100 --nCArea=1 --plot=4"
+./ns3 run "scratch/1905095_st/1905095_static --nNodes=50 --nFlows=100 --nPackets=100 --nCArea=2 --plot=4"
+./ns3 run "scratch/1905095_st/1905095_static --nNodes=50 --nFlows=100 --nPackets=100 --nCArea=3 --plot=4"
+./ns3 run "scratch/1905095_st/1905095_static --nNodes=50 --nFlows=100 --nPackets=100 --nCArea=4 --plot=4"
+./ns3 run "scratch/1905095_st/1905095_static --nNodes=50 --nFlows=100 --nPackets=100 --nCArea=5 --plot=4"

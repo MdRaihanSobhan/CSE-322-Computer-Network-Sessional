@@ -1,0 +1,5 @@
+bash "scratch/1905095/1905095_node.sh"
+bash "scratch/1905095/1905095_flow.sh"
+bash "scratch/1905095/1905095_packet.sh"
+bash "scratch/1905095/1905095_speed.sh"
+gnuplot "scratch/1905095/1905095_plot.plt"

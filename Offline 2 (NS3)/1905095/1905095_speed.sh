@@ -1,0 +1,5 @@
+./ns3 run "scratch/1905095/1905095_mobile --nNodes=50 --nFlows=100 --nPackets=100 --nSpeed=5 --plot=5"
+./ns3 run "scratch/1905095/1905095_mobile --nNodes=50 --nFlows=100 --nPackets=100 --nSpeed=11 --plot=5"
+./ns3 run "scratch/1905095/1905095_mobile --nNodes=50 --nFlows=100 --nPackets=100 --nSpeed=15 --plot=5"
+./ns3 run "scratch/1905095/1905095_mobile --nNodes=50 --nFlows=100 --nPackets=100 --nSpeed=21 --plot=5"
+./ns3 run "scratch/1905095/1905095_mobile --nNodes=50 --nFlows=100 --nPackets=100 --nSpeed=25 --plot=5"
