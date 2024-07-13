@@ -1,6 +1,7 @@
 # Implementation of a Congestion Control Algorithm - TCP Adaptive Reno in NS-3
 
 ## How to run the code
+Follow the steps below to run the code:
 
 ## Install NS-3
 - Install ns3-dev following the guidelines from the link https://www.nsnam.org/docs/release/3.39/installation/html/quick-start.html 
