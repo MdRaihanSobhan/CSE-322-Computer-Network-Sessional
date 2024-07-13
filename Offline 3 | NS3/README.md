@@ -1,5 +1,8 @@
 # Implementation of a Congestion Control Algorithm - TCP Adaptive Reno in NS-3
 
+## Assignment Specifications
+- Have a look at the [specifications](/Offline%203%20|%20NS3/Specifications.pdf)
+
 ## How to run the code
 Follow the steps below to run the code:
 
@@ -28,7 +31,7 @@ Follow the steps below to run the code:
 ```
 
 ## Run the code
-- Run the 1905095.sh file . It will do all the necessary tasks for this assignment for you. 
+- Run the [1905095.sh](/Offline%203%20|%20NS3/1905095.sh) file . It will do all the necessary tasks for this assignment for you. 
 ```sh
     bash 1905095.sh
 
