@@ -34,5 +34,7 @@ Follow the steps below to run the code:
 - Run the [1905095.sh](/Offline%203%20|%20NS3/1905095.sh) file . It will do all the necessary tasks for this assignment for you. 
 ```sh
     bash 1905095.sh
+```
 
-
+## Output files
+- You can see my version of output at [Output Files and Graphs](/Offline%203%20|%20NS3/Generated%20Files%20and%20Graphs/)
