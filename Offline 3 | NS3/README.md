@@ -35,6 +35,8 @@ Follow the steps below to run the code:
     ```sh
         bash 1905095.sh
     ```
+## TCP Adaptive Reno Paper  
+- You can find the paper [here](/Offline%203%20|%20NS3/Paper.pdf)
 
 ## Output files
 - You can see my version of output at [Output Files and Graphs](/Offline%203%20|%20NS3/Generated%20Files%20and%20Graphs/)

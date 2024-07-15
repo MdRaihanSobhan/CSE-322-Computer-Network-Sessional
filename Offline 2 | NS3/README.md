@@ -26,6 +26,14 @@ Follow the steps below to run the code:
             bash 1905095_run.sh
         ```
 
+## Learn NS-3 Basics
+    - You can follow the [youtube playlist](/https://youtube.com/playlist?list=PLN2AD3KJEDbxRixrS56f4qE2o6ENjRprQ&si=A3CP6fDDb4hBYzzp) to learn the basics of NS-3
+
+    - You can read the [NS-3 basics](/Offline%202%20|%20NS3/NS3%20Basics/NS3%20Basics.pdf) to learn the basics of NS-3.
+    
+    - You can also practice these [codes](/Offline%202%20|%20NS3/NS3%20Basics/first_sixth_comment/)
+
+
 ## CAUTION!!!
     I used Flow Monitor in this offline as I didn't notice that it wasn't allowed to use in offline 2, btw, it was allowed in offline 3. 
     The tasks should have been done by using trace sources instead of using Flow Monitor
