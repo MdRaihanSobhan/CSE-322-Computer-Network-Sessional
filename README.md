@@ -4,6 +4,12 @@ This repository contains all the assignments of the course `CSE 322: Computer Ne
 
 Have a look at the [course outline](/Course_Outline.pdf)
 
+## Disclaimer
+
+This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
+
+
+
 ## Offline Assignments
 
 - Offline 1 | [FTP Server](/Offline%201%20|%20FTP%20Server/)
